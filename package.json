@@ -13,7 +13,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://sachin9890.github.io/MusicApp/",
+  "homepage": "./",
   "eslintConfig": {
     "extends": "react-app"
   },
